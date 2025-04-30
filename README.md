@@ -10,6 +10,7 @@ I'm a fullstack(backend heavy) developer passionately building bespoke business 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="vue"/>
  <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="mysql"/>
+  
 </div>
 
 
@@ -18,6 +19,7 @@ I'm a fullstack(backend heavy) developer passionately building bespoke business 
 
 <div display="flex">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white" alt=".NET"/>
+   <img src="https://img.shields.io/badge/Frappe%20School-Learn%20ERPNext-blue?style=flat-square" alt="erpnext"/>
  
 </div>
 
