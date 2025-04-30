@@ -35,4 +35,4 @@ I'm a fullstack(backend heavy) developer passionately building bespoke business 
 
 ### ⚡ Fun fact
 
-I'm definitely a dog person.
+I'm definitely a motorcross person.
