@@ -33,4 +33,4 @@ I'm a fullstack(backend heavy) developer passionately building bespoke business 
 
 ### ⚡ Fun fact
 
-I'm definitely not a cat person.
+I'm definitely a dog person.
