@@ -9,7 +9,7 @@ I'm a fullstack(backend heavy) developer passionately building bespoke business 
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D" alt="vue"/>
- 
+ <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="mysql"/>
 </div>
 
 
